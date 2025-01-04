@@ -37,7 +37,7 @@ polybar_font='Iosevka:style=bold:size=10;3'
 
 # Rofi
 rofi_font='Iosevka 10'
-rofi_icon='Vimix-White-Dark'
+rofi_icon='BeautySolar'
 
 # Terminal
 terminal_font_name='SpaceMono Nerd Font'
