@@ -24,7 +24,7 @@ color13='#DDB6F2'
 color14='#89DCEB'
 color15='#F5E0DC'
 
-accent='#eba0ac'
+accent='#DDB6F2'
 light_value='0.10'
 dark_value='0.50'
 
@@ -40,8 +40,8 @@ rofi_font='Iosevka 10'
 rofi_icon='Vimix-White-Dark'
 
 # Terminal
-terminal_font_name='Iosevka'
-terminal_font_size='13.5'
+terminal_font_name='SpaceMono Nerd Font'
+terminal_font_size='12.5'
 
 # Geany
 geany_colors='mountain.conf'
